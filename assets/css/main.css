@@ -1,0 +1,65 @@
+body{
+    background-image: url("images/background.png");
+    font-family: fantasy;
+}
+
+p{
+
+}
+#header p{
+  color:black;
+  font-family: fantasy;
+}
+#header .jumbotron{
+
+  text-align: center;
+  color: black;
+  background-color: transparent;
+}
+
+#one{
+  background-color: gray;
+  color: white;
+
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+  padding:50px;
+
+}
+#one p{
+
+}
+
+#two{
+  background-color: white;
+  color: black;
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+  padding:50px;
+}
+#three{
+  background-color: gray;
+  color: white;
+
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+  padding:10px;
+  text-align: center;
+  font-size: 15px;
+  padding: 25px
+
+}
+#four{
+  background-color: white;
+  color: blue;
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+  padding:25px;
+  text-align: center;
+  font-size: 25px
+}
+#footer{
+  text-align: center;
+  font-size: 15px;
+  padding:20px;
+}
